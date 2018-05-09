@@ -11,4 +11,4 @@ Based on the K-means results, we found that Group three (29 players) has the mos
 
 Group three is characterized by ice-logging defenseman that tend are also offensively oriented. This group averages 18.1 minutes per game and 57.5 expected goals for (xGF) or 7.5% xGF above the NHL average. Based on these numbers, Group three is obviously littered with talent featuring players like Alex Pietrangelo, Brent Burns, and P.K. Subban. 
 
-Read Here: 
+Read Here: https://beyondtheaverage.wordpress.com/2018/05/09/clustering-nhl-defensemen-on-playing-styles/
